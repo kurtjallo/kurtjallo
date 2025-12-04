@@ -70,7 +70,5 @@ I’m a computer science student at **York University** who loves building pract
 
 <!-- You can tweak the theme & options here -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=kurtjallo&show_icons=true&theme=github_dark" alt="GitHub stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtjallo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
 
