@@ -10,9 +10,9 @@
 I’m a computer science student at **York University** who loves building practical web apps and experimenting with new tools.
 
 - 🎓 CS Student @ YorkU  
-- 💡 Interested in full-stack development, TypeScript, and AI-powered apps  
+- 💡 Interested in full-stack development, cloud computing, and AI-powered apps  
 - 🛠 Currently polishing my portfolio and building side projects
-- 🌱 Learning more about **Next.js**, **backend APIs**, and **cloud deployment**
+- 🌱 Learning more about **Cloud computing**, and **backend APIs**
 
 ---
 
