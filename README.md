@@ -7,12 +7,12 @@
 
 ## 🐉 About Me
 
-I’m a computer science student at **York University** who loves building practical web apps and experimenting with new tools.
+I’m a computer science student at **York University** who's passionate about programming and building programs that solves real-world problems.
 
 - 🎓 CS Student @ YorkU  
-- 💡 Interested in full-stack development, cloud computing, and AI-powered apps  
-- 🛠 Currently polishing my portfolio and building side projects
-- 🌱 Learning more about **Cloud computing**, and **backend APIs**
+- 💡 Interested in full-stack development, cloud computing, and machine learning  
+- 🛠 Currently polishing working on building user-focused applications that people can benefit from
+- 🌱 Learning more about **Cloud Computing**, **APIs**, and **Authentication**
 
 ---
 
