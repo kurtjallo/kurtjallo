@@ -11,19 +11,19 @@ I’m a computer science student at **York University** who's passionate about p
 
 - 🎓 CS Student @ YorkU  
 - 💡 Interested in full-stack development, cloud computing, and machine learning  
-- 🛠 Currently polishing working on building user-focused applications that people can benefit from
+- 🛠 Currently working on building user-focused applications that people can benefit from
 - 🌱 Learning more about **Cloud Computing**, **APIs**, and **Authentication**
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🧠 Building and maintaining projects like:
+- 🧠 I spend most of my free time building and improving my projects:
   - **[myPortfolioWebsite](https://github.com/kurtjallo/myPortfolioWebsite)** – My personal portfolio built with TypeScript
   - **[TenantShield](https://github.com/Jason-Tan/TenantShield)** – AI-powered tenant rights assistant (🏆 1st place CHUB Hackathon)
   - **[sober-you](https://github.com/kurtjallo/sober-you)** – A tool to help track and support sobriety
   - **[Cooksy](https://github.com/kurtjallo/Cooksy)** – Cooking / recipe related app in TypeScript
-- 📚 Improving my skills in **TypeScript**, **React**, and **backend services**
+- 📚 Currently improving my skills in **TypeScript**, **React**, and **Backend services**
 
 ---
 
