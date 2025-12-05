@@ -10,8 +10,8 @@
 I’m a computer science student at **York University** who's passionate about programming and building programs that solves real-world problems.
 
 - 🎓 CS Student @ YorkU  
-- 💡 Interested in full-stack development, cloud computing, and machine learning  
-- 🛠 Currently working on building user-focused applications that people can benefit from
+- 💡 Interested in Full-stack Development, Cloud Computing, and Machine Learning  
+- 🛠 Currently working on building user-focused apps that people can benefit from
 - 🌱 Learning more about **Cloud Computing**, **APIs**, and **Authentication**
 
 ---
@@ -65,10 +65,3 @@ I’m a computer science student at **York University** who's passionate about p
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurtjallorina6@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-
-<!-- You can tweak the theme & options here -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kurtjallo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
-
