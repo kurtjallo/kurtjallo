@@ -22,7 +22,7 @@ I’m a computer science student at **York University** who's passionate about p
   - **[myPortfolioWebsite](https://github.com/kurtjallo/myPortfolioWebsite)** – My personal portfolio
   - **[TenantShield](https://github.com/Jason-Tan/TenantShield)** – AI-powered tenant rights assistant (🏆 1st place CHUB Hackathon)
   - **[sober-you](https://github.com/kurtjallo/sober-you)** – A tool to help track and support sobriety
-  - **[Cooksy](https://github.com/kurtjallo/Cooksy)** – Cooking / recipe related app
+  - **[Cooksy](https://github.com/kurtjallo/Cooksy)** – Generate recipes based on what ingreredients you have!
 - 📚 Currently improving my skills in **TypeScript**, **React**, and **Backend services**
 
 ---
