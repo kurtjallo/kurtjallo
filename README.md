@@ -19,10 +19,10 @@ I’m a computer science student at **York University** who's passionate about p
 ## 🚀 What I'm Up To
 
 - 🧠 I spend most of my free time building and improving my projects:
-  - **[myPortfolioWebsite](https://github.com/kurtjallo/myPortfolioWebsite)** – My personal portfolio built with TypeScript
+  - **[myPortfolioWebsite](https://github.com/kurtjallo/myPortfolioWebsite)** – My personal portfolio
   - **[TenantShield](https://github.com/Jason-Tan/TenantShield)** – AI-powered tenant rights assistant (🏆 1st place CHUB Hackathon)
   - **[sober-you](https://github.com/kurtjallo/sober-you)** – A tool to help track and support sobriety
-  - **[Cooksy](https://github.com/kurtjallo/Cooksy)** – Cooking / recipe related app in TypeScript
+  - **[Cooksy](https://github.com/kurtjallo/Cooksy)** – Cooking / recipe related app
 - 📚 Currently improving my skills in **TypeScript**, **React**, and **Backend services**
 
 ---
