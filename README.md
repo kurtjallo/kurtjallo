@@ -7,10 +7,10 @@
 
 ## 🐉 About Me
 
-I’m a CS student at York University. I build full-stack and mobile apps, but I’m more focused on the backend.
+Hi there! I’m a Computer Science student at York University. I build full-stack and mobile apps, but I’m more focused on the backend.
 
 - 🎓 CS @ YorkU
-- 🔧 Usually working in: TypeScript/JavaScript, Python, React, React Native/Expo
+- 🔧 Usually working in: Python, Javascript/TypeScript React, React Native/Expo
 - 🌱 Getting better at: backend APIs, authentication, and cloud computing
 
 ---
