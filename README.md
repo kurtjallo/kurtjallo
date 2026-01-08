@@ -11,8 +11,6 @@ Hi there! I’m a Computer Science student at York University. I build full-stac
 
 - 🎓 CS @ YorkU
 - 🔧 Usually working in: Python, Javascript/TypeScript React, React Native/Expo
-- 🌱 Getting better at: backend APIs, authentication, and cloud computing
-
 ---
 
 ## 🧑‍💻 Tech Stack
