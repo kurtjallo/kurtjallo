@@ -7,9 +7,9 @@
 
 ## 🐉 About Me
 
-I'm a Computer Science student at York University and Founding Engineer at **HAVN**, a privacy-first social networking platform. I architect full-stack systems from mobile apps to cloud infrastructure, with a focus on scalability and AI-powered automation.
+I'm a Computer Science student at York University and Founding Engineer at **HAVN**, a private social platform built with React Native and FastAPI. I build full-stack and mobile apps with a focus on backend architecture.
 
-- 🚀 Building [HAVN](https://github.com/HAVN-Inc) — a full-stack social networking platform
+- 🚀 Building [HAVN](https://github.com/HAVN-Inc) — a privacy-first social networking platform
 - 🏆 1st Place @ CSHub Hacks 2025 — AI Agent for workflow automation
 - 🎓 CS @ York University
 
