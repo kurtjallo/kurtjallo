@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋 I'm Kurt</h1>
 <h3 align="center">Founding Engineer @ HAVN | CS @ York University</h3>
 
+<p align="center">
+  <strong>🏆 1st Place @ CSHub Hacks 2025 — Built an AI-powered lease violation analyzer</strong>
+</p>
+
 ---
 
 ## 🐉 About Me
@@ -12,10 +16,21 @@ I'm a Computer Science student at York University and Founding Engineer at **HAV
 - 🚀 Building [HAVN](https://github.com/HAVN-Inc) — a privacy-first social networking platform
 - 🏆 1st Place @ CSHub Hacks 2025 — AI Agent for workflow automation
 - 🎓 CS @ York University
+- 📚 Currently learning Kubernetes & system design
 
 ---
 
-## 🧑💻 Tech Stack
+## 🏆 Featured Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **HAVN** | Privacy-first social platform with 99.9% uptime | React Native, FastAPI, PostgreSQL, AWS | [View](https://github.com/HAVN-Inc) |
+| **TenantShield** | 🥇 1st Place — AI lease violation analyzer | React, Node.js, Gemini API | [View](https://github.com/kurtjallo/TenantShield) |
+| **Savour** | Grocery price comparison across 5 stores | React, TypeScript, FastAPI, MongoDB | [View](https://github.com/kurtjallo/savour) |
+
+---
+
+## 🧑‍💻 Tech Stack
 
 ### **Languages**
 
@@ -59,16 +74,30 @@ I'm a Computer Science student at York University and Founding Engineer at **HAV
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### **DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Monitoring & Observability**
+
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurtjallo&show_icons=true&theme=tokyonight" alt="Kurt's GitHub stats" />
+</p>
+
+---
+
 ## 🌐 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurtjallorina/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kurtjallorina.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurtjallorina6@gmail.com)
