@@ -22,11 +22,14 @@ I'm a Computer Science student at York University and Founding Engineer at **HAV
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **HAVN** | Privacy-first social platform with 99.9% uptime | React Native, FastAPI, PostgreSQL, AWS | [View](https://github.com/HAVN-Inc) |
-| **TenantShield** | 🥇 1st Place — AI lease violation analyzer | React, Node.js, Gemini API | [View](https://github.com/kurtjallo/TenantShield) |
-| **Savour** | Grocery price comparison across 5 stores | React, TypeScript, FastAPI, MongoDB | [View](https://github.com/kurtjallo/savour) |
+### [HAVN](https://github.com/HAVN-Inc)
+Privacy-first social platform with 99.9% uptime. Built with React Native, FastAPI, PostgreSQL, and AWS.
+
+### [TenantShield](https://github.com/kurtjallo/TenantShield)
+🥇 **1st Place @ CSHub Hacks 2025** — AI-powered lease violation analyzer. Built with React, Node.js, and Gemini API.
+
+### [Savour](https://github.com/kurtjallo/savour-conuhacks-2026)
+Grocery price comparison across 5 Canadian stores. Built with React, TypeScript, FastAPI, and MongoDB.
 
 ---
 
