@@ -29,7 +29,8 @@ I’m a Computer Science student at York University and **Founding Engineer @ HA
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html,css,postgres&theme=dark" />
 
 ### Web / Mobile
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+### Web / Mobile
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,vercel,figma,jest&theme=dark" />
 
 ### Backend & APIs
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
