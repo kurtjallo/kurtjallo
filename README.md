@@ -1,63 +1,107 @@
 <!-- Profile README for @kurtjallo -->
 
-# Kurt Jallo
+<h1 align="center">Hey, I’m Kurt 👋</h1>
+<p align="center">
+  <strong>Founding Engineer @ HAVN</strong> · Computer Science @ York University
+</p>
+<p align="center">
+  🏆 <strong>1st Place — CSHub Hacks 2025</strong> · AI-powered lease violation analyzer
+</p>
 
-I’m a Computer Science student at York University and **Founding Engineer @ HAVN**, focused on building reliable, privacy-first mobile + backend systems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kurtjallorina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kurtjallorina.me">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:kurtjallorina6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About
+## 🚀 About Me
 
-- 🚀 Building **HAVN** — a privacy-first social networking platform
-- 🏆 **1st Place @ CSHub Hacks 2025** — AI-powered lease violation analyzer
-- 🎓 CS @ York University
-- 📚 Learning Kubernetes & system design
+I’m a Computer Science student and **Founding Engineer at HAVN**, building privacy-first, mobile-first systems with a strong focus on backend architecture, reliability, and security.
+
+- 🚀 Building **HAVN** — a private social platform with media sharing & moderation  
+- 🏆 **1st Place @ CSHub Hacks 2025** — AI-powered lease violation analyzer  
+- 🎓 Computer Science @ York University  
+- 📚 Currently learning **Kubernetes & system design**
 
 ---
 
-## Featured projects
+## 🏆 Featured Projects
 
-- **[HAVN](https://github.com/HAVN-Inc)** — Privacy-first social platform (React Native, FastAPI, PostgreSQL, AWS)
-- **[TenantShield](https://github.com/kurtjallo/TenantShield)** 🥇 — AI-powered lease violation analyzer (React, Node.js, Gemini API)
-- **[Savour](https://github.com/kurtjallo/savour-conuhacks-2026)** — Grocery price comparison across 5 Canadian stores (React, TypeScript, FastAPI, MongoDB)
+### **HAVN**
+Privacy-first social platform focused on secure communication and content moderation.  
+**Tech:** React Native · FastAPI · MongoDB · AWS  
+**Highlights:** Media uploads (S3), auth via Clerk, CI/CD, moderation pipeline
+
+🔗 https://github.com/HAVN-Inc
+
+---
+
+### **TenantShield** 🥇
+**1st Place @ CSHub Hacks 2025**  
+AI-powered lease violation analyzer that flags legal issues automatically.  
+**Tech:** React · Node.js · Gemini API
+
+🔗 https://github.com/kurtjallo/TenantShield
+
+---
+
+### **Savour**
+Grocery price comparison platform across 5 Canadian retailers.  
+**Tech:** React · TypeScript · FastAPI · MongoDB
+
+🔗 https://github.com/kurtjallo/savour-conuhacks-2026
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html,css,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html,css&theme=dark" />
 
-### Web / Mobile
 ### Web / Mobile
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,vercel,figma,jest&theme=dark" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,pytest&theme=dark" />
 
-### Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+### Auth & Security
+<img src="https://skillicons.dev/icons?i=jwt,oauth,aws&theme=dark" />
+<br/>
+**Auth:** Clerk · JWT
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" />
+<br/>
+**Services:** S3 · CloudWatch
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
+### Monitoring & Reliability
+<img src="https://skillicons.dev/icons?i=sentry&theme=dark" />
+
+### AI & Content Moderation
+<img src="https://skillicons.dev/icons?i=openai,aws&theme=dark" />
+<br/>
+**Used for:** Text & image moderation (NSFW)
 
 ---
 
-## Connect with me
-<p align="left">
+## 🤝 Let’s Connect
+
+<p>
   <a href="https://www.linkedin.com/in/kurtjallorina/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" />
-  </a>
-  <a href="mailto:kurtjallorina6@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" />
-  </a>
-  <a href="https://github.com/kurtjallo">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kurtjallorina.me">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:kurtjallorina6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
