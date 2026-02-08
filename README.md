@@ -23,53 +23,25 @@ I’m a Computer Science student at York University and **Founding Engineer @ HA
 
 ---
 
-## Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" />
-</p>
+## 🧰 Tech Stack
 
-## Web / Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=reactnative&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=expo&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html,css,postgres&theme=dark" />
 
-## Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" />
-</p>
+### Web / Mobile
+<img src="https://skillicons.dev/icons?i=react,reactnative,expo,tailwind&theme=dark" />
 
-## Databases & Caching
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="48" />
-</p>
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
 
-## Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="48" />
-</p>
+### Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
 
-## Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" />
-</p>
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 
 ---
 
