@@ -2,7 +2,7 @@
 
 # Kurt Jallo
 
-I’m a Computer Science student at York University and **Founding Engineer @ HAVN**, focused on building reliable, privacy-first mobile + backend systems.
+I’m a Computer Science student at York University and **Founding Engineer @ HAVN**, focused on building reliable systems.
 
 ---
 
