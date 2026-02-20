@@ -50,8 +50,8 @@ I build full-stack products from zero to launch — currently shipping a privacy
 
 ## 📊 GitHub Stats
 
+📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtjallo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtjallo&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
