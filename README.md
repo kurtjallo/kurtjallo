@@ -59,14 +59,12 @@ I build full-stack products from zero to launch — currently shipping a privacy
 
 ## 📬 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kurtjallorina/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
-  </a>&nbsp;
-  <a href="mailto:kurtjallorina6@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />
-  </a>&nbsp;
-  <a href="https://www.kurtjallorina.me">
-    <img src="https://img.shields.io/badge/Portfolio-kurtjallorina.me-blue?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kurtjallorina/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" />
+</a>&nbsp;
+<a href="mailto:kurtjallorina6@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" />
+</a>&nbsp;
+<a href="https://www.kurtjallorina.me">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" />
+</a>
