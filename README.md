@@ -11,7 +11,7 @@ I build full-stack products from zero to launch — currently shipping a privacy
 ## 🏆 Highlights
 
 - **Founding Engineer @ HAVN Inc.** — Building a privacy-first social networking platform end-to-end (React Native, FastAPI, PostgreSQL, AWS)
-- **1st Place @ CSHub Hacks 2025** — Built TenantShield, an AI-powered tenant rights tool that won $750 in prizes
+- **1st Place @ CSHub Hacks 2025** — Built TenantShield, an AI-powered tenant rights tool that won $400 in prizes
 - **Technical Executive @ AWS Cloud Club** — Organizing cloud architecture workshops at York University
 - **1,000+ GitHub contributions** in the last year
 
