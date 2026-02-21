@@ -1,6 +1,6 @@
 # Hey, I'm Kurt 👋
 
-**Founding Engineer @ [HAVN Inc.](https://github.com/HAVN-Inc)** · 2nd-Year CS @ York University · Toronto, ON
+**Founding Engineer @ [HAVN Inc.](https://github.com/HAVN-Inc)** · CS @ York University · Toronto, ON
 
 I build full-stack products from zero to launch — currently shipping a privacy-first social platform with real users. I care about clean architecture, meaningful AI integration, and solving problems people actually have.
 
