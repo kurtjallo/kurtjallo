@@ -15,6 +15,9 @@ I build full-stack products from zero to launch — currently shipping a privacy
 - **Technical Executive @ AWS Cloud Club** — Organizing cloud architecture workshops at York University
 - **1,000+ GitHub contributions** in the last year
 
+## 🌐 Open Source Contributions
+- **[Moorcheh Python SDK](https://github.com/moorcheh-ai/moorcheh-python-sdk)** — Contributor to a serverless semantic search SDK for RAG & agentic memory
+
 ---
 
 ## 🚀 Featured Projects
