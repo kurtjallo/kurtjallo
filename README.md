@@ -12,9 +12,8 @@ I build full-stack products from zero to launch — currently shipping a privacy
 
 - **Founding Engineer @ HAVN Inc.** — Building a privacy-first social networking platform end-to-end (React Native, FastAPI, PostgreSQL, AWS)
 - **Growth Fellow @ [Polarity](https://www.linkedin.com/company/polarityco/)** — Selected for Polarity's growth fellowship cohort
-- **Co-Organizing Cursor Conference Toronto & Lovable Meetup** — Building Toronto's dev tooling community (~400 attendees for Cursor, Toronto Tech Week, May 2026)
-- **1st Place @ CSHub Hacks 2025** — Built TenantShield, an AI-powered tenant rights tool that won $400 in prizes
-- **Technical Executive @ AWS Cloud Club** — Organizing cloud architecture workshops at York University (200+ members)
+- **Co-Organizing Cursor Conference Toronto & Lovable Meetup**
+- **Technical Executive @ AWS Cloud Club** — Organizing cloud architecture workshops at York University
 - **1,000+ GitHub contributions** in the last year
 
 ## 🌐 Open Source Contributions
