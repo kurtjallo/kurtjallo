@@ -1,6 +1,6 @@
 # Hey, I'm Kurt 👋
 
-**Founding Engineer @ [HAVN Inc.](https://github.com/HAVN-Inc)** · CS @ York University · Toronto, ON
+**Founding Engineer @ [HAVN Inc.](https://github.com/HAVN-Inc)** · **Growth Fellow @ [Polarity](https://www.linkedin.com/company/polarityco/)** · CS @ York University · Toronto, ON
 
 I build full-stack products from zero to launch — currently shipping a privacy-first social platform with real users. I care about clean architecture, meaningful AI integration, and solving problems people actually have.
 
@@ -11,11 +11,14 @@ I build full-stack products from zero to launch — currently shipping a privacy
 ## 🏆 Highlights
 
 - **Founding Engineer @ HAVN Inc.** — Building a privacy-first social networking platform end-to-end (React Native, FastAPI, PostgreSQL, AWS)
+- **Growth Fellow @ [Polarity](https://www.linkedin.com/company/polarityco/)** — Selected for Polarity's growth fellowship cohort
+- **Co-Organizing Cursor Conference Toronto & Lovable Meetup** — Building Toronto's dev tooling community (~400 attendees for Cursor, Toronto Tech Week, May 2026)
 - **1st Place @ CSHub Hacks 2025** — Built TenantShield, an AI-powered tenant rights tool that won $400 in prizes
-- **Technical Executive @ AWS Cloud Club** — Organizing cloud architecture workshops at York University
+- **Technical Executive @ AWS Cloud Club** — Organizing cloud architecture workshops at York University (200+ members)
 - **1,000+ GitHub contributions** in the last year
 
 ## 🌐 Open Source Contributions
+
 - **[Moorcheh Python SDK](https://github.com/moorcheh-ai/moorcheh-python-sdk)** — Contributor to a serverless semantic search SDK for RAG & agentic memory
 
 ---
