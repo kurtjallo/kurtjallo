@@ -1,6 +1,5 @@
 # Hey, I'm Kurt 👋
 **CEO & Founding Engineer @ [Keyfill](https://github.com/Keyfill-AI)** · **Founding Engineer @ [HAVN Inc.](https://github.com/HAVN-Inc)** · **Growth Fellow @ [Polarity](https://www.linkedin.com/company/polarityco/)** · CS @ York University · Toronto, ON
-I build full-stack products from zero to launch — currently shipping a privacy-first social platform with real users. I care about clean architecture, meaningful AI integration, and solving problems people actually have.
 🔗 **[[kurtjallorina.me](http://kurtjallorina.me)](https://www.kurtjallorina.me)** · **[LinkedIn](https://www.linkedin.com/in/kurtjallorina/)**
 ---
 ## 🏆 Highlights
