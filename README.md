@@ -1,6 +1,6 @@
 # Hey, I'm Kurt 👋
 
-**CEO & Founding Engineer @ [Keyfill](https://github.com/Keyfill-AI)** · **Software Engineer @ Nmbr** · **Replit Ambassador** · **Ideabrowser.com Ambassador** · **CS @ York University** · Toronto, ON
+**CEO & Founding Engineer @ [Keyfill](https://github.com/Keyfill-AI)** · **Software Engineer @ Nmbr** · **Replit Ambassador** & **Ideabrowser.com Ambassador** · **CS @ York University** · Toronto, ON
 
 🔗 **[kurtjallorina.me](https://www.kurtjallorina.me)** · **[LinkedIn](https://www.linkedin.com/in/kurtjallorina/)**
 
