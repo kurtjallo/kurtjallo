@@ -2,7 +2,13 @@
 
 **Software Engineer @ Nmbr** · **Engineer @ Tofu** · **RBC SWE Co-op incoming (Fall 2026)** · **CS @ York University** · Toronto, ON
 
-🔗 **[kurtjallorina.me](https://www.kurtjallorina.me)** · **[LinkedIn](https://www.linkedin.com/in/kurtjallorina/)**
+<p>
+  <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+  &nbsp;
+  <a href="https://replit.com/@your-username"><img src="https://skillicons.dev/icons?i=replit" height="48" /></a>
+  &nbsp;
+  <a href="mailto:kurtjallorina6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+</p>
 
 ---
 
