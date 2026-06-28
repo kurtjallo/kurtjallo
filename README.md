@@ -35,16 +35,24 @@ A lot of that comes from my love for Toronto and the community being built here.
 ### Tech stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=python,php,ts,js,java,c,html,css&theme=dark" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,php,ts,js,java,c,html,css&theme=dark" />
+</p>
 
 **Frontend & Mobile**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,vercel,figma&theme=dark" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,vercel,figma&theme=dark" />
+</p>
 
 **Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,postgres,mongodb,redis&theme=dark" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,postgres,mongodb,redis&theme=dark" />
+</p>
 
 **Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git&theme=dark" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git&theme=dark" />
+</p>
 
 ---
 
@@ -68,8 +76,13 @@ A lot of that comes from my love for Toronto and the community being built here.
 ## 📬 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://github.com/kurtjallo"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="mailto:kurtjallorina6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  &nbsp;·&nbsp; <a href="https://www.kurtjallorina.me">kurtjallorina.me</a>
+  <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+  &nbsp;
+  <a href="https://replit.com/@your-username"><img src="https://skillicons.dev/icons?i=replit" height="48" /></a>
+  &nbsp;
+  <a href="https://github.com/kurtjallo"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
+  &nbsp;
+  <a href="mailto:kurtjallorina6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.kurtjallorina.me">kurtjallorina.me</a>
 </p>
