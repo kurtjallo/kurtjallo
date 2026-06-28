@@ -80,9 +80,5 @@ A lot of that comes from my love for Toronto and the community being built here.
   &nbsp;
   <a href="https://replit.com/@your-username"><img src="https://skillicons.dev/icons?i=replit" height="48" /></a>
   &nbsp;
-  <a href="https://github.com/kurtjallo"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
-  &nbsp;
   <a href="mailto:kurtjallorina6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.kurtjallorina.me">kurtjallorina.me</a>
 </p>
