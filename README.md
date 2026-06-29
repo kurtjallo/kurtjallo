@@ -5,8 +5,6 @@
 <p>
   <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
   &nbsp;
-  <a href="https://replit.com/@your-username"><img src="https://skillicons.dev/icons?i=replit" height="48" /></a>
-  &nbsp;
   <a href="mailto:kurtjallorina6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
 </p>
 
