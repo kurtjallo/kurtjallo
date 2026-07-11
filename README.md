@@ -1,6 +1,6 @@
 # Hey, I'm Kurt 👋
 
-**Software Engineer @ Nmbr** · **Engineer @ Tofu** · **RBC SWE Co-op incoming (Fall 2026)** · **CS @ York University** · Toronto, ON
+**Software Engineer @ Nmbr** · **Engineer @ Tofu** · **CS @ York University** · Toronto, ON
 
 <p>
   <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
