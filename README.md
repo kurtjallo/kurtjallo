@@ -22,20 +22,6 @@ A lot of that comes from my love for Toronto and the community being built here.
 
 ---
 
-## 🛠 Engineering
-
-### Featured projects
-
-| Project | What it does | Stack | Links |
-| ------- | ------------ | ----- | ----- |
-| **Visual Debugger** | Visualizes program state and data structures as you step through code, right inside VS Code. 57+ installs on the marketplace | TypeScript, VS Code API | [Repo](#) · [Marketplace](#) |
-| **TenantShield** 🥇 | Upload photos of housing issues, AI analyzes the evidence, cites local laws, and drafts legal notices. 1st place, CSHub Hacks 2025 | React, Node.js, Gemini API | [Repo](https://github.com/kurtjallo/TenantShield) |
-| **Clarify** | RAG-powered document analysis. Upload any document and ask questions with cited answers. Built at Hackville 2026 | Next.js, Python, MongoDB Atlas Vector Search, Cohere | [Repo](https://github.com/kurtjallo/Clarify-Hackville-2026) |
-
-### Open source
-
-* **[Moorcheh Python SDK](https://github.com/moorcheh-ai/moorcheh-python-sdk)** — contributor to a serverless semantic search SDK for RAG and agentic memory
-
 ### Tech stack
 
 **Languages**
