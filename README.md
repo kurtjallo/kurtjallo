@@ -50,7 +50,6 @@ A lot of that comes from my love for Toronto and the community being built here.
 
 * **Replit Ambassador** — growing the builder community through events and technical content
 * **Ideabrowser.com Ambassador** — championing AI-powered product development
-* **Co-organizer, Cursor Conference Toronto** — 400 vetted builders at BrainStation during Toronto Tech Week, plus running Lovable meetups
 * **Technical Executive @ AWS Cloud Club** — running cloud architecture workshops at York University
 
 ---
