@@ -1,82 +1,80 @@
 # Hey, I'm Kurt 👋
 
-**Software Engineer @ Tofu** · backend and full-stack
+**Full-stack Software Engineer @ [Tofu](https://hiretofu.com)**
 
-I build software and AI features that hold up in production.
-
-<p>
-  <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
-</p>
+Building candidate fraud and deepfake detection for hiring teams. The products I work on help companies catch fake candidates, spot deepfakes in live interviews, and know who they're really hiring.
 
 ---
 
-<table>
-  <tr>
-    <th align="left">What I do</th>
-    <th align="left">What I'm into</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>backend engineering</li>
-        <li>full-stack web apps</li>
-        <li>AI and LLM features in production</li>
-        <li>evals and AI quality</li>
-        <li>developer tooling and AI agents</li>
-        <li>production reliability</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>trust and safety</li>
-        <li>evals</li>
-        <li>AI developer tools and agents</li>
-        <li>Toronto's builder community</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## What I do
 
----
+- Build and ship full-stack features end to end
+- Build what customers want and ship it fast
+- Build AI products that real users rely on
+- Build tools and AI agents that help me ship faster
+- Keep production fast and reliable
 
-## About me
+## What I'm into
 
-I'm someone who can't sit still when there's something worth building. I grew up watching the people around me work hard for everything they had, and it shaped the way I move. I don't wait for permission, I don't wait for the right time, I just start.
-
-Whether it's shipping code, organizing an event, or reaching out to a stranger who's doing something interesting, I'd rather try and learn than sit on the bench.
-
-What I care about most is people. The builders, the outsiders, the ones figuring it out as they go. I try to show up for them the way I wish someone had shown up for me earlier.
-
-A lot of that comes from my love for Toronto and the community being built here. This city has introduced me to some of the most curious, generous, and ambitious people I've met, and I want to keep helping make it easier for people to find their way into those rooms.
+- Trust and safety
+- AI agents and dev tools
+- Moving fast without breaking production
+- Toronto's builder community
 
 ---
 
 ## Tech stack
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,bash,html,css,php,java,c&theme=dark" />
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,laravel&theme=dark" />
-</p>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Databases & queues**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,elasticsearch,mongodb&theme=dark" />
-</p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,vitest,vercel,figma&theme=dark" />
-</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Data & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **Cloud, DevOps & monitoring**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,git,prometheus,sentry&theme=dark" />
-</p>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
 ---
 
@@ -88,6 +86,16 @@ A lot of that comes from my love for Toronto and the community being built here.
 
 ## GitHub stats
 
+![kurtjallo's Stats](https://github-readme-stats.vercel.app/api?username=kurtjallo&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![kurtjallo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurtjallo&theme=vision-friendly-dark&hide_border=true)
 
+![kurtjallo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtjallo&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+</p>
