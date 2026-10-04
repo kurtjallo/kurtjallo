@@ -1,6 +1,6 @@
 # Hey, I'm Kurt 👋
 
-**Full-stack Software Engineer @ [Tofu](https://hiretofu.com)**
+**Software Engineer @ [Tofu](https://hiretofu.com)**
 
 Building candidate fraud and deepfake detection for hiring teams. The products I work on help companies catch fake candidates, spot deepfakes in live interviews, and know who they're really hiring.
 
