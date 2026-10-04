@@ -1,11 +1,9 @@
 # Hey, I'm Kurt 👋
 
-**Software Engineer @ Tofu** · **Previously @ Nmbr** · **CS @ York University** · Toronto, ON
+**Software Engineer @ Tofu**
 
 <p>
   <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
-  &nbsp;
-  <a href="mailto:kurtjallorina6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
 </p>
 
 ---
