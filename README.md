@@ -88,10 +88,6 @@ A lot of that comes from my love for Toronto and the community being built here.
 
 ## GitHub stats
 
-![kurtjallo's Stats](https://github-readme-stats.vercel.app/api?username=kurtjallo&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![kurtjallo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurtjallo&theme=vision-friendly-dark&hide_border=true)
-
-![kurtjallo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtjallo&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
