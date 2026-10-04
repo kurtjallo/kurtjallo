@@ -83,21 +83,15 @@ A lot of that comes from my love for Toronto and the community being built here.
 ## Community
 
 * **Replit Ambassador.** Growing the builder community through events and technical content.
-* **Ideabrowser.com Ambassador.** Championing AI-powered product development.
-* **Technical Executive @ AWS Cloud Club.** Running cloud architecture workshops at York University.
 
 ---
 
 ## GitHub stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtjallo&theme=tokyonight&hide_border=true" height="165" />
-</p>
+![kurtjallo's Stats](https://github-readme-stats.vercel.app/api?username=kurtjallo&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+
+![kurtjallo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurtjallo&theme=vision-friendly-dark&hide_border=true)
+
+![kurtjallo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtjallo&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-## Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kurtjallorina/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
-</p>
