@@ -1,4 +1,4 @@
-# Hey, I'm Kurt 👋
+# Hey, I'm Kurt!
 
 **Software Engineer @ [Tofu](https://hiretofu.com)**
 
